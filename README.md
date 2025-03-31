@@ -21,7 +21,7 @@
 - ⚡ Fun fact: **Why did the developer stay in bed all day? They didn’t want to face runtime errors. 😴**
 
   ### CodeWar Rank
- <img src="https://www.codewars.com/users/ShadowAssassin/badges/large" alt="Kuntal-Gain" />
+ <img src="https://www.codewars.com/users/ShadowAssassin/badges/large" alt="Abhishek-Rajak" />
 <div align="center">
 
  
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kuntal-Gain/count.svg?"  />
+  <img src=""  />
 </div>
 
 ###
