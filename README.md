@@ -20,9 +20,8 @@
   
 - ⚡ Fun fact: **Why did the developer stay in bed all day? They didn’t want to face runtime errors. 😴**
 
-  ### CodeWar Rank
- <img src="https://www.codewars.com/users/ShadowAssassin/badges/large" alt="Abhishek-Rajak" />
-<div align="center">
+  ### fire: My Stats :
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajakAbhi)](https://git.io/streak-stats)
 
  
  
