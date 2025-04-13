@@ -23,12 +23,7 @@
   ### fire: My Stats :
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajakAbhi)](https://git.io/streak-stats)
 
- 
- 
-  <img src="https://streak-stats.demolab.com/?user=PixelOverlord&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="margin-right: 50px;"  />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PixelOverlord&locale=en&hide_title=false&layout=compact&card_width=160&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ###
 
