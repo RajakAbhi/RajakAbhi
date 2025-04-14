@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Khata_Book_App](https://github.com/RajakAbhi/Khata_Book_App)
+- 🔭 I’m currently working on [Infinity_Grid_Battle](https://github.com/RajakAbhi/Infinity_Grid_Battle)
   
 - 🌱 I’m currently learning **Advance Flutter, Rest API, Firebase**
   
@@ -20,14 +20,17 @@
   
 - ⚡ Fun fact: **Why did the developer stay in bed all day? They didn’t want to face runtime errors. 😴**
 
-  ### fire: My Stats :
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajakAbhi)](https://git.io/streak-stats)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=RajakAbhi&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajakAbhi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=RajakAbhi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
+</div>
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ### Tech Stack
 
 <div align="left">
@@ -48,13 +51,12 @@
   <a href="https://www.linkedin.com/in/abhishek-rajak-1b1809252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-###
+
 
 <br clear="both">
 
 
 
-###
 
 <div align="center">
   <img src=""  />
